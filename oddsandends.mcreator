@@ -8,7 +8,8 @@
       "registry_name": "automation_tab",
       "metadata": {
         "files": []
-      }
+      },
+      "path": "~/Drew"
     },
     {
       "name": "CompactedDiamond",
@@ -25,7 +26,7 @@
           "src/main/resources/assets/oddsandends/models/block/compacted_diamond.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CompactedDiamondRecipe",
@@ -39,7 +40,7 @@
           "src/main/resources/data/oddsandends/recipe/compacted_diamond_recipe.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CompactedRedstone",
@@ -56,7 +57,7 @@
           "src/main/resources/assets/oddsandends/models/item/compacted_redstone.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CompactedRedstoneRecipe",
@@ -70,7 +71,7 @@
           "src/main/resources/data/oddsandends/advancement/recipes/compacted_redstone_recipe.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "ChargedNetherStar",
@@ -84,7 +85,7 @@
           "src/main/resources/assets/oddsandends/models/item/charged_nether_star.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "ChargedNetherStarRecipe",
@@ -98,7 +99,7 @@
           "src/main/resources/data/oddsandends/advancement/recipes/charged_nether_star_recipe.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CobblestoneCore",
@@ -112,7 +113,7 @@
           "src/main/java/net/mcreator/oddsandends/item/CobblestoneCoreItem.java"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "WoodCore",
@@ -126,7 +127,7 @@
           "src/main/resources/assets/oddsandends/models/item/wood_core.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "SandCore",
@@ -140,7 +141,7 @@
           "src/main/resources/assets/oddsandends/models/item/sand_core.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CobblestoneCoreRecipe",
@@ -154,7 +155,7 @@
           "src/main/resources/data/oddsandends/recipe/cobblestone_core_recipe.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "WoodCoreRecipe",
@@ -168,7 +169,7 @@
           "src/main/resources/data/oddsandends/recipe/wood_core_recipe.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "SandCoreRecipe",
@@ -182,7 +183,7 @@
           "src/main/resources/data/oddsandends/advancement/recipes/sand_core_recipe.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "RemCobblestoneCore",
@@ -196,7 +197,7 @@
           "src/main/resources/assets/oddsandends/models/item/rem_cobblestone_core.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "RemWoodCore",
@@ -210,7 +211,7 @@
           "src/main/java/net/mcreator/oddsandends/item/RemWoodCoreItem.java"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "RemSandCore",
@@ -224,7 +225,7 @@
           "src/main/java/net/mcreator/oddsandends/item/RemSandCoreItem.java"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "RemCobbleRecipe",
@@ -238,7 +239,7 @@
           "src/main/resources/data/oddsandends/recipe/rem_cobble_recipe.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "RemWoodRecipe",
@@ -252,7 +253,7 @@
           "src/main/resources/data/oddsandends/advancement/recipes/rem_wood_recipe.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "RemSandRecipe",
@@ -266,7 +267,7 @@
           "src/main/resources/data/oddsandends/recipe/rem_sand_recipe.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CollapsedStoneRightclicked",
@@ -285,7 +286,7 @@
           "src/main/java/net/mcreator/oddsandends/procedures/CollapsedStoneRightclickedProcedure.java"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CollapsedStone",
@@ -299,7 +300,7 @@
           "src/main/java/net/mcreator/oddsandends/item/CollapsedStoneItem.java"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CollapsedBark",
@@ -313,7 +314,7 @@
           "src/main/resources/assets/oddsandends/models/item/collapsed_bark.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CollapsedBarkRightclicked",
@@ -332,7 +333,7 @@
           "src/main/java/net/mcreator/oddsandends/procedures/CollapsedBarkRightclickedProcedure.java"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CollapsedSand",
@@ -346,7 +347,7 @@
           "src/main/resources/assets/oddsandends/models/item/collapsed_sand.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CollapsedSandRightclicked",
@@ -365,7 +366,7 @@
           "src/main/java/net/mcreator/oddsandends/procedures/CollapsedSandRightclickedProcedure.java"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CollStoneRecipe",
@@ -379,7 +380,7 @@
           "src/main/resources/data/oddsandends/recipe/coll_stone_recipe.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CollBarkRecipe",
@@ -393,7 +394,7 @@
           "src/main/resources/data/oddsandends/advancement/recipes/coll_bark_recipe.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     },
     {
       "name": "CollSandRecipe",
@@ -407,7 +408,7 @@
           "src/main/resources/data/oddsandends/advancement/recipes/coll_sand_recipe.json"
         ]
       },
-      "path": "~/Automation"
+      "path": "~/Drew/Automation"
     }
   ],
   "variable_elements": [],
@@ -548,20 +549,29 @@
     "files": [
       "src/main/java/net/mcreator/oddsandends/init/OddsandendsModBlocks.java",
       "src/main/java/net/mcreator/oddsandends/init/OddsandendsModItems.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/net/mcreator/oddsandends/init/OddsandendsModSounds.java",
       "src/main/java/net/mcreator/oddsandends/init/OddsandendsModModels.java",
       "src/main/resources/pack.mcmeta",
-      "src/main/java/net/mcreator/oddsandends/OddsandendsMod.java",
-      "src/main/resources/META-INF/neoforge.mods.toml",
       "src/main/resources/assets/oddsandends/sounds.json",
-      "src/main/java/net/mcreator/oddsandends/init/OddsandendsModSounds.java",
-      "src/main/java/net/mcreator/oddsandends/init/OddsandendsModTabs.java"
+      "src/main/java/net/mcreator/oddsandends/init/OddsandendsModTabs.java",
+      "src/main/java/net/mcreator/oddsandends/OddsandendsMod.java"
     ]
   },
   "foldersRoot": {
     "name": "~",
     "children": [
       {
-        "name": "Automation",
+        "name": "Drew",
+        "children": [
+          {
+            "name": "Automation",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Nick",
         "children": []
       }
     ]
