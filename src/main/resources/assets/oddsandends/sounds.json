@@ -1,0 +1,91 @@
+{
+  "liltman": {
+    "subtitle": "subtitles.liltman",
+    "sounds": [
+      {
+        "name": "oddsandends:liltman",
+        "stream": false
+      }
+    ]
+  },
+  "doorknock": {
+    "subtitle": "subtitles.doorknock",
+    "sounds": [
+      {
+        "name": "oddsandends:doorknock",
+        "stream": false
+      }
+    ]
+  },
+  "mumbling": {
+    "subtitle": "subtitles.mumbling",
+    "sounds": [
+      {
+        "name": "oddsandends:mumbling",
+        "stream": false
+      }
+    ]
+  },
+  "fart": {
+    "subtitle": "subtitles.fart",
+    "sounds": [
+      {
+        "name": "oddsandends:fart",
+        "stream": false
+      }
+    ]
+  },
+  "bonk": {
+    "subtitle": "subtitles.bonk",
+    "sounds": [
+      {
+        "name": "oddsandends:bonk",
+        "stream": false
+      }
+    ]
+  },
+  "horrorvoices": {
+    "sounds": [
+      {
+        "name": "oddsandends:horrorvoices",
+        "stream": false
+      }
+    ]
+  },
+  "fan": {
+    "subtitle": "subtitles.fan",
+    "sounds": [
+      {
+        "name": "oddsandends:fan",
+        "stream": false
+      }
+    ]
+  },
+  "fan2": {
+    "subtitle": "subtitles.fan2",
+    "sounds": [
+      {
+        "name": "oddsandends:fan2",
+        "stream": false
+      }
+    ]
+  },
+  "mmerror": {
+    "subtitle": "subtitles.mmerror",
+    "sounds": [
+      {
+        "name": "oddsandends:mmerror",
+        "stream": false
+      }
+    ]
+  },
+  "moneybank": {
+    "subtitle": "subtitles.moneybank",
+    "sounds": [
+      {
+        "name": "oddsandends:money_bank_sound",
+        "stream": false
+      }
+    ]
+  }
+}

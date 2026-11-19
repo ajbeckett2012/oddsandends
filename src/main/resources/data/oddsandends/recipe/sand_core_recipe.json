@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sand"
+    },
+    "b": {
+      "item": "oddsandends:charged_nether_star"
+    }
+  },
+  "result": {
+    "id": "oddsandends:sand_core",
+    "count": 1
+  }
+}

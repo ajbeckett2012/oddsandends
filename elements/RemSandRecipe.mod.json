@@ -1,0 +1,31 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      "CUSTOM:SandCore"
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      "Items.NETHERITE_INGOT",
+      "Items.HEART_OF_THE_SEA",
+      "Items.ECHO_SHARD",
+      "Items.TOTEM_OF_UNDYING",
+      "CUSTOM:SandCore",
+      "Items.GOLDEN_APPLE",
+      "Items.END_CRYSTAL",
+      "Items.DRAGON_BREATH",
+      "Items.GOAT_HORN"
+    ],
+    "recipeReturnStack": "CUSTOM:RemSandCore",
+    "name": "rem_sand_recipe",
+    "namespace": "mod"
+  }
+}

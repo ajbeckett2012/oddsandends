@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cobblestone"
+    },
+    "b": {
+      "item": "oddsandends:rem_cobblestone_core"
+    }
+  },
+  "result": {
+    "id": "oddsandends:collapsed_stone",
+    "count": 1
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "mod_elements": [
+    {
+      "name": "AutomationTab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "automation_tab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "CompactedDiamond",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compacted_diamond",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/oddsandends/loot_table/blocks/compacted_diamond.json",
+          "src/main/resources/assets/oddsandends/models/item/compacted_diamond.json",
+          "src/main/resources/assets/oddsandends/blockstates/compacted_diamond.json",
+          "src/main/java/net/mcreator/oddsandends/block/CompactedDiamondBlock.java",
+          "src/main/resources/assets/oddsandends/models/block/compacted_diamond.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CompactedDiamondRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compacted_diamond_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/oddsandends/advancement/recipes/compacted_diamond_recipe.json",
+          "src/main/resources/data/oddsandends/recipe/compacted_diamond_recipe.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CompactedRedstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compacted_redstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/oddsandends/blockstates/compacted_redstone.json",
+          "src/main/resources/data/oddsandends/loot_table/blocks/compacted_redstone.json",
+          "src/main/java/net/mcreator/oddsandends/block/CompactedRedstoneBlock.java",
+          "src/main/resources/assets/oddsandends/models/block/compacted_redstone.json",
+          "src/main/resources/assets/oddsandends/models/item/compacted_redstone.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CompactedRedstoneRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compacted_redstone_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/oddsandends/recipe/compacted_redstone_recipe.json",
+          "src/main/resources/data/oddsandends/advancement/recipes/compacted_redstone_recipe.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "ChargedNetherStar",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "charged_nether_star",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/oddsandends/item/ChargedNetherStarItem.java",
+          "src/main/resources/assets/oddsandends/models/item/charged_nether_star.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "ChargedNetherStarRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "charged_nether_star_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/oddsandends/recipe/charged_nether_star_recipe.json",
+          "src/main/resources/data/oddsandends/advancement/recipes/charged_nether_star_recipe.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CobblestoneCore",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_core",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/oddsandends/models/item/cobblestone_core.json",
+          "src/main/java/net/mcreator/oddsandends/item/CobblestoneCoreItem.java"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "WoodCore",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wood_core",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/oddsandends/item/WoodCoreItem.java",
+          "src/main/resources/assets/oddsandends/models/item/wood_core.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "SandCore",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sand_core",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/oddsandends/item/SandCoreItem.java",
+          "src/main/resources/assets/oddsandends/models/item/sand_core.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CobblestoneCoreRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_core_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/oddsandends/advancement/recipes/cobblestone_core_recipe.json",
+          "src/main/resources/data/oddsandends/recipe/cobblestone_core_recipe.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "WoodCoreRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wood_core_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/oddsandends/advancement/recipes/wood_core_recipe.json",
+          "src/main/resources/data/oddsandends/recipe/wood_core_recipe.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "SandCoreRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sand_core_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/oddsandends/recipe/sand_core_recipe.json",
+          "src/main/resources/data/oddsandends/advancement/recipes/sand_core_recipe.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "RemCobblestoneCore",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rem_cobblestone_core",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/oddsandends/item/RemCobblestoneCoreItem.java",
+          "src/main/resources/assets/oddsandends/models/item/rem_cobblestone_core.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "RemWoodCore",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rem_wood_core",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/oddsandends/models/item/rem_wood_core.json",
+          "src/main/java/net/mcreator/oddsandends/item/RemWoodCoreItem.java"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "RemSandCore",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rem_sand_core",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/oddsandends/models/item/rem_sand_core.json",
+          "src/main/java/net/mcreator/oddsandends/item/RemSandCoreItem.java"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "RemCobbleRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rem_cobble_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/oddsandends/advancement/recipes/rem_cobble_recipe.json",
+          "src/main/resources/data/oddsandends/recipe/rem_cobble_recipe.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "RemWoodRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rem_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/oddsandends/recipe/rem_wood_recipe.json",
+          "src/main/resources/data/oddsandends/advancement/recipes/rem_wood_recipe.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "RemSandRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rem_sand_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/oddsandends/advancement/recipes/rem_sand_recipe.json",
+          "src/main/resources/data/oddsandends/recipe/rem_sand_recipe.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CollapsedStoneRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "collapsed_stone_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/oddsandends/procedures/CollapsedStoneRightclickedProcedure.java"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CollapsedStone",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "collapsed_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/oddsandends/models/item/collapsed_stone.json",
+          "src/main/java/net/mcreator/oddsandends/item/CollapsedStoneItem.java"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CollapsedBark",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "collapsed_bark",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/oddsandends/item/CollapsedBarkItem.java",
+          "src/main/resources/assets/oddsandends/models/item/collapsed_bark.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CollapsedBarkRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "collapsed_bark_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/oddsandends/procedures/CollapsedBarkRightclickedProcedure.java"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CollapsedSand",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "collapsed_sand",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/oddsandends/item/CollapsedSandItem.java",
+          "src/main/resources/assets/oddsandends/models/item/collapsed_sand.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CollapsedSandRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "collapsed_sand_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/oddsandends/procedures/CollapsedSandRightclickedProcedure.java"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CollStoneRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coll_stone_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/oddsandends/advancement/recipes/coll_stone_recipe.json",
+          "src/main/resources/data/oddsandends/recipe/coll_stone_recipe.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CollBarkRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coll_bark_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/oddsandends/recipe/coll_bark_recipe.json",
+          "src/main/resources/data/oddsandends/advancement/recipes/coll_bark_recipe.json"
+        ]
+      },
+      "path": "~/Automation"
+    },
+    {
+      "name": "CollSandRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coll_sand_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/oddsandends/recipe/coll_sand_recipe.json",
+          "src/main/resources/data/oddsandends/advancement/recipes/coll_sand_recipe.json"
+        ]
+      },
+      "path": "~/Automation"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "liltman",
+      "files": [
+        "liltman"
+      ],
+      "category": "voice",
+      "subtitle": "Lil T Man"
+    },
+    {
+      "name": "doorknock",
+      "files": [
+        "doorknock"
+      ],
+      "category": "neutral",
+      "subtitle": "He\u0027s behind you"
+    },
+    {
+      "name": "mumbling",
+      "files": [
+        "mumbling"
+      ],
+      "category": "neutral",
+      "subtitle": "Tweaker"
+    },
+    {
+      "name": "fart",
+      "files": [
+        "fart"
+      ],
+      "category": "neutral",
+      "subtitle": "Farting"
+    },
+    {
+      "name": "bonk",
+      "files": [
+        "bonk"
+      ],
+      "category": "neutral",
+      "subtitle": "Tweaker getting hit"
+    },
+    {
+      "name": "horrorvoices",
+      "files": [
+        "horrorvoices"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "fan",
+      "files": [
+        "fan"
+      ],
+      "category": "block",
+      "subtitle": "Fan Blowing"
+    },
+    {
+      "name": "fan2",
+      "files": [
+        "fan2"
+      ],
+      "category": "neutral",
+      "subtitle": "Fan Blowing"
+    },
+    {
+      "name": "mmerror",
+      "files": [
+        "mmerror"
+      ],
+      "category": "neutral",
+      "subtitle": "Machine Error"
+    },
+    {
+      "name": "moneybank",
+      "files": [
+        "money_bank_sound"
+      ],
+      "category": "neutral",
+      "subtitle": "Cha-ching"
+    }
+  ],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CompactedRedstone@CUSTOM:CompactedRedstone",
+      "~CompactedDiamond@CUSTOM:CompactedDiamond"
+    ],
+    "BLOCKS:minecraft:needs_iron_tool": [
+      "~CompactedRedstone@CUSTOM:CompactedRedstone",
+      "~CompactedDiamond@CUSTOM:CompactedDiamond"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "subtitles.liltman": "Lil T Man",
+      "subtitles.doorknock": "He\u0027s behind you",
+      "subtitles.mumbling": "Tweaker",
+      "subtitles.fart": "Farting",
+      "subtitles.bonk": "Tweaker getting hit",
+      "subtitles.horrorvoices": "",
+      "item_group.drugs__gems.automation_tab": "Automation (D\u0026G)",
+      "block.drugs__gems.compacted_diamond": "Compacted Diamond Block",
+      "block.drugs__gems.compacted_redstone": "Compacted Redstone Block",
+      "item.drugs__gems.charged_nether_star": "Charged Nether Star",
+      "item.drugs__gems.cobblestone_core": "Cobblestone Core",
+      "item.drugs__gems.wood_core": "Wood Core",
+      "item.drugs__gems.sand_core": "Sand Core",
+      "item.drugs__gems.rem_cobblestone_core": "Rematrixed Cobblestone Core",
+      "item.drugs__gems.rem_wood_core": "Rematrixed Wood Core",
+      "item.drugs__gems.rem_sand_core": "Rematrixed Sand Core",
+      "item.drugs__gems.collapsed_stone": "Collapsed Stone",
+      "item.drugs__gems.collapsed_bark": "Collapsed Bark",
+      "item.drugs__gems.collapsed_sand": "Collapsed Sand",
+      "subtitles.fan": "Fan Blowing",
+      "subtitles.fan2": "Fan Blowing",
+      "subtitles.mmerror": "Machine Error",
+      "subtitles.moneybank": "Cha-ching",
+      "item_group.oddsandends.automation_tab": "Automation (D\u0026G)",
+      "block.oddsandends.compacted_diamond": "Compacted Diamond Block",
+      "block.oddsandends.compacted_redstone": "Compacted Redstone Block",
+      "item.oddsandends.charged_nether_star": "Charged Nether Star",
+      "item.oddsandends.cobblestone_core": "Cobblestone Core",
+      "item.oddsandends.wood_core": "Wood Core",
+      "item.oddsandends.sand_core": "Sand Core",
+      "item.oddsandends.rem_cobblestone_core": "Rematrixed Cobblestone Core",
+      "item.oddsandends.rem_wood_core": "Rematrixed Wood Core",
+      "item.oddsandends.rem_sand_core": "Rematrixed Sand Core",
+      "item.oddsandends.collapsed_stone": "Collapsed Stone",
+      "item.oddsandends.collapsed_bark": "Collapsed Bark",
+      "item.oddsandends.collapsed_sand": "Collapsed Sand"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/oddsandends/init/OddsandendsModBlocks.java",
+      "src/main/java/net/mcreator/oddsandends/init/OddsandendsModItems.java",
+      "src/main/java/net/mcreator/oddsandends/init/OddsandendsModModels.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/oddsandends/OddsandendsMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/assets/oddsandends/sounds.json",
+      "src/main/java/net/mcreator/oddsandends/init/OddsandendsModSounds.java",
+      "src/main/java/net/mcreator/oddsandends/init/OddsandendsModTabs.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Automation",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "oddsandends",
+    "modName": "Odds \u0026 Ends",
+    "version": "1.0.0",
+    "author": "GudwigVonBaldass",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.oddsandends"
+  },
+  "mcreatorVersion": 202600233518
+}

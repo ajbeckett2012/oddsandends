@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:logs"
+    },
+    "b": {
+      "item": "oddsandends:charged_nether_star"
+    }
+  },
+  "result": {
+    "id": "oddsandends:wood_core",
+    "count": 1
+  }
+}

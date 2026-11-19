@@ -1,0 +1,31 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      "Blocks.DIAMOND_BLOCK"
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "Blocks.DIAMOND_BLOCK",
+      "Blocks.DIAMOND_BLOCK",
+      "Blocks.DIAMOND_BLOCK",
+      "Blocks.DIAMOND_BLOCK",
+      "Items.EMERALD",
+      "Blocks.DIAMOND_BLOCK",
+      "Blocks.DIAMOND_BLOCK",
+      "Blocks.DIAMOND_BLOCK",
+      "Blocks.DIAMOND_BLOCK"
+    ],
+    "recipeReturnStack": "CUSTOM:CompactedDiamond",
+    "name": "compacted_diamond_recipe",
+    "namespace": "mod"
+  }
+}

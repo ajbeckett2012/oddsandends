@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "oddsandends:compacted_redstone"
+    },
+    "b": {
+      "item": "oddsandends:compacted_diamond"
+    },
+    "c": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "id": "oddsandends:charged_nether_star",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:logs"
+    },
+    "b": {
+      "item": "oddsandends:rem_wood_core"
+    }
+  },
+  "result": {
+    "id": "oddsandends:collapsed_bark",
+    "count": 1
+  }
+}

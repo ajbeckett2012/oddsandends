@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "oddsandends:block/compacted_redstone"
+    }
+  }
+}

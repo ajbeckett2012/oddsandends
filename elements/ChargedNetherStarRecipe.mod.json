@@ -1,0 +1,31 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      "Items.NETHER_STAR"
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "CUSTOM:CompactedRedstone",
+      "CUSTOM:CompactedDiamond",
+      "CUSTOM:CompactedRedstone",
+      "CUSTOM:CompactedDiamond",
+      "Items.NETHER_STAR",
+      "CUSTOM:CompactedDiamond",
+      "CUSTOM:CompactedRedstone",
+      "CUSTOM:CompactedDiamond",
+      "CUSTOM:CompactedRedstone"
+    ],
+    "recipeReturnStack": "CUSTOM:ChargedNetherStar",
+    "name": "charged_nether_star_recipe",
+    "namespace": "mod"
+  }
+}
