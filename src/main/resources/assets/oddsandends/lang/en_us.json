@@ -34,5 +34,8 @@
   "item.oddsandends.rem_sand_core": "Rematrixed Sand Core",
   "item.oddsandends.collapsed_stone": "Collapsed Stone",
   "item.oddsandends.collapsed_bark": "Collapsed Bark",
-  "item.oddsandends.collapsed_sand": "Collapsed Sand"
+  "item.oddsandends.collapsed_sand": "Collapsed Sand",
+  "item_group.oddsandends.wip": "WIP",
+  "block.oddsandends.machine_frame": "Machine Frame",
+  "block.oddsandends.machine_frame_corner": "Machine Frame"
 }

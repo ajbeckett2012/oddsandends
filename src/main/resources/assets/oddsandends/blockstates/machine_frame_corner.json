@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oddsandends:block/machine_frame_corner"
+    },
+    "facing=east": {
+      "model": "oddsandends:block/machine_frame_corner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oddsandends:block/machine_frame_corner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oddsandends:block/machine_frame_corner",
+      "y": 270
+    }
+  }
+}

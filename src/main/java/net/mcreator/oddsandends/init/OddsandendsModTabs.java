@@ -6,6 +6,7 @@ package net.mcreator.oddsandends.init;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.DeferredHolder;
 
+import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.network.chat.Component;
@@ -30,4 +31,9 @@ public class OddsandendsModTabs {
 				tabData.accept(OddsandendsModItems.COLLAPSED_BARK.get());
 				tabData.accept(OddsandendsModItems.COLLAPSED_SAND.get());
 			}).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> WIP = REGISTRY.register("wip",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.oddsandends.wip")).icon(() -> new ItemStack(Blocks.BARRIER)).displayItems((parameters, tabData) -> {
+				tabData.accept(OddsandendsModBlocks.MACHINE_FRAME.get().asItem());
+				tabData.accept(OddsandendsModBlocks.MACHINE_FRAME_CORNER.get().asItem());
+			}).withTabsBefore(AUTOMATION_TAB.getId()).build());
 }

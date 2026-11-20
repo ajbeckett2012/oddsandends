@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oddsandends:block/machine_frame_top",
+    "up": "oddsandends:block/machine_frame_top",
+    "north": "oddsandends:block/machine_frame_up",
+    "east": "oddsandends:block/machine_frame_up",
+    "south": "oddsandends:block/machine_frame_up",
+    "west": "oddsandends:block/machine_frame_up",
+    "particle": "oddsandends:block/machine_frame_top"
+  },
+  "render_type": "solid"
+}

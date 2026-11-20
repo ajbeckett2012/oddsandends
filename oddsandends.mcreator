@@ -9,7 +9,7 @@
       "metadata": {
         "files": []
       },
-      "path": "~/Drew"
+      "path": "~/Drew/Tabs"
     },
     {
       "name": "CompactedDiamond",
@@ -409,6 +409,51 @@
         ]
       },
       "path": "~/Drew/Automation"
+    },
+    {
+      "name": "WIP",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wip",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/Drew/Tabs"
+    },
+    {
+      "name": "MachineFrame",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "machine_frame",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/oddsandends/models/block/machine_frame.json",
+          "src/main/resources/assets/oddsandends/blockstates/machine_frame.json",
+          "src/main/resources/assets/oddsandends/models/item/machine_frame.json",
+          "src/main/java/net/mcreator/oddsandends/block/MachineFrameBlock.java",
+          "src/main/resources/data/oddsandends/loot_table/blocks/machine_frame.json"
+        ]
+      },
+      "path": "~/Drew/Machine"
+    },
+    {
+      "name": "MachineFrameCorner",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "machine_frame_corner",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/oddsandends/block/MachineFrameCornerBlock.java",
+          "src/main/resources/assets/oddsandends/blockstates/machine_frame_corner.json",
+          "src/main/resources/assets/oddsandends/models/item/machine_frame_corner.json",
+          "src/main/resources/assets/oddsandends/models/block/machine_frame_corner.json",
+          "src/main/resources/data/oddsandends/loot_table/blocks/machine_frame_corner.json"
+        ]
+      },
+      "path": "~/Drew/Machine"
     }
   ],
   "variable_elements": [],
@@ -542,7 +587,10 @@
       "item.oddsandends.rem_sand_core": "Rematrixed Sand Core",
       "item.oddsandends.collapsed_stone": "Collapsed Stone",
       "item.oddsandends.collapsed_bark": "Collapsed Bark",
-      "item.oddsandends.collapsed_sand": "Collapsed Sand"
+      "item.oddsandends.collapsed_sand": "Collapsed Sand",
+      "item_group.oddsandends.wip": "WIP",
+      "block.oddsandends.machine_frame": "Machine Frame",
+      "block.oddsandends.machine_frame_corner": "Machine Frame"
     }
   },
   "metadata": {
@@ -566,6 +614,14 @@
         "children": [
           {
             "name": "Automation",
+            "children": []
+          },
+          {
+            "name": "Machine",
+            "children": []
+          },
+          {
+            "name": "Tabs",
             "children": []
           }
         ]

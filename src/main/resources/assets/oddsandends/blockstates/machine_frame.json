@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "oddsandends:block/machine_frame",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "oddsandends:block/machine_frame"
+    },
+    "axis=z": {
+      "model": "oddsandends:block/machine_frame",
+      "x": 90
+    }
+  }
+}
