@@ -8,6 +8,7 @@ import net.neoforged.neoforge.registries.DeferredBlock;
 
 import net.minecraft.world.level.block.Block;
 
+import net.mcreator.oddsandends.block.MachineFrameCornerBottomBlock;
 import net.mcreator.oddsandends.block.MachineFrameCornerBlock;
 import net.mcreator.oddsandends.block.MachineFrameBlock;
 import net.mcreator.oddsandends.block.CompactedRedstoneBlock;
@@ -20,11 +21,13 @@ public class OddsandendsModBlocks {
 	public static final DeferredBlock<Block> COMPACTED_REDSTONE;
 	public static final DeferredBlock<Block> MACHINE_FRAME;
 	public static final DeferredBlock<Block> MACHINE_FRAME_CORNER;
+	public static final DeferredBlock<Block> MACHINE_FRAME_CORNER_BOTTOM;
 	static {
 		COMPACTED_DIAMOND = REGISTRY.register("compacted_diamond", CompactedDiamondBlock::new);
 		COMPACTED_REDSTONE = REGISTRY.register("compacted_redstone", CompactedRedstoneBlock::new);
 		MACHINE_FRAME = REGISTRY.register("machine_frame", MachineFrameBlock::new);
 		MACHINE_FRAME_CORNER = REGISTRY.register("machine_frame_corner", MachineFrameCornerBlock::new);
+		MACHINE_FRAME_CORNER_BOTTOM = REGISTRY.register("machine_frame_corner_bottom", MachineFrameCornerBottomBlock::new);
 	}
 	// Start of user code block custom blocks
 	// End of user code block custom blocks

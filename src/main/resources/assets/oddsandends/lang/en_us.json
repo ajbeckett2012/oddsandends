@@ -37,5 +37,6 @@
   "item.oddsandends.collapsed_sand": "Collapsed Sand",
   "item_group.oddsandends.wip": "WIP",
   "block.oddsandends.machine_frame": "Machine Frame",
-  "block.oddsandends.machine_frame_corner": "Machine Frame"
+  "block.oddsandends.machine_frame_corner": "Machine Frame Top Corner",
+  "block.oddsandends.machine_frame_corner_bottom": "Machine Frame Bottom Corner"
 }

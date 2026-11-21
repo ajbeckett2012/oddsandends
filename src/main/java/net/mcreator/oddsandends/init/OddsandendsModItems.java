@@ -30,6 +30,7 @@ public class OddsandendsModItems {
 	public static final DeferredItem<Item> COLLAPSED_SAND;
 	public static final DeferredItem<Item> MACHINE_FRAME;
 	public static final DeferredItem<Item> MACHINE_FRAME_CORNER;
+	public static final DeferredItem<Item> MACHINE_FRAME_CORNER_BOTTOM;
 	static {
 		COMPACTED_DIAMOND = block(OddsandendsModBlocks.COMPACTED_DIAMOND);
 		COMPACTED_REDSTONE = block(OddsandendsModBlocks.COMPACTED_REDSTONE);
@@ -45,6 +46,7 @@ public class OddsandendsModItems {
 		COLLAPSED_SAND = REGISTRY.register("collapsed_sand", CollapsedSandItem::new);
 		MACHINE_FRAME = block(OddsandendsModBlocks.MACHINE_FRAME, new Item.Properties().fireResistant());
 		MACHINE_FRAME_CORNER = block(OddsandendsModBlocks.MACHINE_FRAME_CORNER, new Item.Properties().fireResistant());
+		MACHINE_FRAME_CORNER_BOTTOM = block(OddsandendsModBlocks.MACHINE_FRAME_CORNER_BOTTOM, new Item.Properties().fireResistant());
 	}
 
 	// Start of user code block custom items

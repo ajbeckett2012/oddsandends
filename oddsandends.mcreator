@@ -454,6 +454,23 @@
         ]
       },
       "path": "~/Drew/Machine"
+    },
+    {
+      "name": "MachineFrameCornerBottom",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "machine_frame_corner_bottom",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/oddsandends/blockstates/machine_frame_corner_bottom.json",
+          "src/main/resources/assets/oddsandends/models/item/machine_frame_corner_bottom.json",
+          "src/main/resources/assets/oddsandends/models/block/machine_frame_corner_bottom.json",
+          "src/main/resources/data/oddsandends/loot_table/blocks/machine_frame_corner_bottom.json",
+          "src/main/java/net/mcreator/oddsandends/block/MachineFrameCornerBottomBlock.java"
+        ]
+      },
+      "path": "~/Drew/Machine"
     }
   ],
   "variable_elements": [],
@@ -590,7 +607,8 @@
       "item.oddsandends.collapsed_sand": "Collapsed Sand",
       "item_group.oddsandends.wip": "WIP",
       "block.oddsandends.machine_frame": "Machine Frame",
-      "block.oddsandends.machine_frame_corner": "Machine Frame"
+      "block.oddsandends.machine_frame_corner": "Machine Frame Top Corner",
+      "block.oddsandends.machine_frame_corner_bottom": "Machine Frame Bottom Corner"
     }
   },
   "metadata": {

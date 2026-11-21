@@ -35,5 +35,6 @@ public class OddsandendsModTabs {
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.oddsandends.wip")).icon(() -> new ItemStack(Blocks.BARRIER)).displayItems((parameters, tabData) -> {
 				tabData.accept(OddsandendsModBlocks.MACHINE_FRAME.get().asItem());
 				tabData.accept(OddsandendsModBlocks.MACHINE_FRAME_CORNER.get().asItem());
+				tabData.accept(OddsandendsModBlocks.MACHINE_FRAME_CORNER_BOTTOM.get().asItem());
 			}).withTabsBefore(AUTOMATION_TAB.getId()).build());
 }
